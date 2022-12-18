@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://yonatan-bw.github.io/nbdev_tutorial"
+  description: "training on building SW with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/yonatan-bw/nbdev_tutorial"
